@@ -1,4 +1,5 @@
 <?php
+
 class RealMeService extends SS_Object implements TemplateGlobalProvider
 {
     /**
