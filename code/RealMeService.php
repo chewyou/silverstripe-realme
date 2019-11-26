@@ -1,5 +1,5 @@
 <?php
-class RealMeService extends Object implements TemplateGlobalProvider
+class RealMeService extends SS_Object implements TemplateGlobalProvider
 {
     /**
      * Current RealMe supported environments.
